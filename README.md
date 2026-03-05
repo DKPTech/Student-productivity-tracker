@@ -1,8 +1,5 @@
 # Student-productivity-tracker
-Student Productivity Tracker allows students to record study tasks, track subject-wise hours, manage tasks, and monitor overall study productivity..
-Student Productivity Tracker
-
-A simple command-line productivity tracking application built using Python and SQLite.
+Student Productivity Tracker is a simple command-line productivity tracking application built using Python and SQLite.
 This project helps students record their study tasks, track the number of hours studied, and view their total study time.
 
 Features
