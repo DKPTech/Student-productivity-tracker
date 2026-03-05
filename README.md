@@ -28,15 +28,15 @@ README.md                 # Project documentation
 1. Install Python.
 2. Install required package:
 
-```pip install tabulate```
+ ```pip install tabulate```
 
 3. Download or clone the repository:
 
-```git clone https://github.com/yourusername/student-productivity-tracker.git```
+ ```git clone https://github.com/yourusername/student-productivity-tracker.git```
 
 4. Run the program:
 
-```python productivity_tracker.py```
+ ```python productivity_tracker.py```
 
 How It Works
 
