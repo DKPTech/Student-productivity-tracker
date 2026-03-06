@@ -1,5 +1,5 @@
 # Student-productivity-tracker
-Student Productivity Tracker is a simple command-line productivity tracking application built using Python and SQLite.
+Student Productivity Tracker is a simple command-line productivity tracking application built using Python,SQLite,Flask,HTML and CSS.
 This project helps students record their study tasks, track the number of hours studied, and view their total study time.
 
 # Features
@@ -28,6 +28,7 @@ README.md                 # Project documentation
 1. Install Python.
 2. Install required package:
 
+ ```pip install flask```
  ```pip install tabulate```
 
 3. Download or clone the repository:
