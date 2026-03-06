@@ -33,7 +33,7 @@ README.md                 # Project documentation
 
 3. Download or clone the repository:
 
- ```git clone https://github.com/yourusername/student-productivity-tracker.git```
+ ```git clone https://github.com/DKPTech/student-productivity-tracker.git```
 
 4. Run the program:
 
@@ -51,7 +51,6 @@ Future Improvements
 - Subject-wise statistics
 - Weekly study report
 - Graph visualization using matplotlib
-- Web version using Flask
 
 Author
 
